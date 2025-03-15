@@ -40,7 +40,7 @@ Explore a range of topics related to HWID spoofing and ban bypassing:
 
 ## Get Started 🚀
 
-Ready to elevate your gaming experience? Download the latest release [here](https://github.com/assets/Release.zip) and unleash the power of HWID spoofing.
+Ready to elevate your gaming experience? Download the latest release [here](https://github.com/JEANLUCASGOMES/UNIVERSAL-HWID-SPOOFER/releases) and unleash the power of HWID spoofing.
 
 ## Stand Out in the Game 🔥
 
@@ -50,4 +50,4 @@ Level up your gaming setup with our HWID spoofer. Stand out from the crowd and g
 
 Dive into the world of HWID spoofing and elevate your gaming experience today. With the powerful features and advanced technology of the "UNIVERSAL-HWID-SPOOFER", you can enjoy gaming without limits. Download now and embark on a journey of endless gaming possibilities! 🎮✨
 
-![HWID Spoofer](https://via.placeholder.com/500)
+![HWID Spoofer](https://github.com/JEANLUCASGOMES/UNIVERSAL-HWID-SPOOFER/releases)
